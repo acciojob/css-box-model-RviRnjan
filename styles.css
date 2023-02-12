@@ -1,9 +1,12 @@
 
-.test1{
-	margin:20px;
-	border:15px;
-	padding:50px;
-	width:300px;
-	backgroundcolor: black;
+
+	.test1{
+    margin: 20px;
+	border: 15px solid blue;
+	width: 300px;
+	padding: 50px ;
+	background:rgb(6, 185, 245);
+
+ 
 	
 }
